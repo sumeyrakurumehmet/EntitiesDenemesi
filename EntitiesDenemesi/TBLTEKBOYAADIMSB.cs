@@ -92,6 +92,6 @@ namespace EntitiesDenemesi
         [StringLength(50)]
         public string PROGRAM_NO { get; set; }
 
-        //aydin
+        //aydin//
     }
 }
